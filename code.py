@@ -5,7 +5,7 @@ import time
 import os
 from urllib.parse import quote
 
-x = ['989373790197']#Phone number
+x = ['989375853913']#Phone number
 for i in range(0,len(x)):
     phone_number = x[i] # replace with your recipient's phone number
     mess = """با احترام و آرزوی بهترین‌ها برای شما، در این روزهای پایانی سال، آرزو می‌کنم که سال جدید با شادی، سلامتی و موفقیت برای شما آغاز شود. به امید فرا رسیدن نوروز باستانی، که نشانه تجدید حیات، آرامش و توفیق برای همه ماست. عیدتان پیشاپیش مبارک
